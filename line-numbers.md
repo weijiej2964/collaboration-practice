@@ -14,4 +14,4 @@
 #### 14
 #### 15 This work is so fun, I can't want to do more!
 #### 16 
-#### 17 vanilla is the best icecream flavor
+#### 17 Strawberry and Vanilla is the best ice cream flavor!
