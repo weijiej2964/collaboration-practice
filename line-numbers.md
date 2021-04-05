@@ -1,8 +1,8 @@
 #### 1 Weijie was here!
 #### 2
-#### 3 3 William was here!
+#### 3 William was here!
 #### 4
-#### 5
+#### 5 William was here also!
 #### 6
 #### 7
 #### 8
